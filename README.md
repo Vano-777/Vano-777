@@ -10,11 +10,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vano-777.Vano-777" alt="Visitors" />
-</p>
 
-## About me
+## Обо мне
 
 Я студент **2 курса** Ярославского Государственного Университета, направление **«Программная инженерия»**.  
 Программированием увлекаюсь уже много лет. Основной фокус — **backend-разработка** на Python и Java.
@@ -40,18 +37,28 @@
 
 ## ⚽ Хобби и увлечения
 
-- **Футбол** — активно играю, очень люблю командный спорт
-- **Спортзал** — регулярные силовые тренировки
-- **Шахматы** — имею **разряд**, занимаюсь уже много лет
-- Люблю активный образ жизни и соревновательный дух
+- **Футбол** — активно играю, очень люблю командный спорт  
+- **Спортзал** — регулярные силовые тренировки  
+- **Шахматы** — имею **разряд**, занимаюсь уже много лет  
+
+Люблю активный образ жизни и соревновательный дух.
 
 ## 🔥 Чем я занимаюсь сейчас
 
 - Разрабатываю backend-приложения на **Python** (Django + FastAPI) и **Java** (Spring)
-- Изучаю асинхронное программирование, работу с Redis, RabbitMQ и Docker
+- Изучаю асинхронное программирование, Redis, RabbitMQ и Docker
 - Улучшаю навыки написания чистого и масштабируемого кода
 - Готов к первым реальным проектам и стажировкам
 
-**Открыт к интересным проектам и сотрудничеству!**  
+---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vano-777/Vano-777/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vano-777/Vano-777/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vano-777/Vano-777/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+**Открыт к интересным проектам и сотрудничеству!**  
 Пиши в Telegram: [@VANO001z](https://t.me/VANO001z)
