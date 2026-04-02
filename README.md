@@ -2,7 +2,7 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-<h1 align="center">👋 Привет! Меня зовут Алексей</h1>
+<h1 align="center">👋 Привет! Меня зовут Иван</h1>
 
 <p align="center">
   <a href="https://t.me/VANO001z" target="_blank">
@@ -38,19 +38,20 @@
 **Software & IDE**  
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellijidea&perline=8" />
 
-## 🔥 Моя GitHub статистика
+## ⚽ Хобби и увлечения
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vano-777&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&include_all_commits=true" alt="GitHub Stats" />
+- **Футбол** — активно играю, очень люблю командный спорт
+- **Спортзал** — регулярные силовые тренировки
+- **Шахматы** — имею **разряд**, занимаюсь уже много лет
+- Люблю активный образ жизни и соревновательный дух
 
----
+## 🔥 Чем я занимаюсь сейчас
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vano-777/Vano-777/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vano-777/Vano-777/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vano-777/Vano-777/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+- Разрабатываю backend-приложения на **Python** (Django + FastAPI) и **Java** (Spring)
+- Изучаю асинхронное программирование, работу с Redis, RabbitMQ и Docker
+- Улучшаю навыки написания чистого и масштабируемого кода
+- Готов к первым реальным проектам и стажировкам
 
 **Открыт к интересным проектам и сотрудничеству!**  
+
 Пиши в Telegram: [@VANO001z](https://t.me/VANO001z)
